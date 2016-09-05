@@ -19,6 +19,7 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Book of Ammon</dc:title>
 		<meta property="file-as" refines="#title">SORT</meta>
+                <!-- same as last book + homeless shelters, civil disobedience, intentional communities/religious communities, mormons -->
 		<dc:subject id="subject-1">SUBJECT1</dc:subject>
 		<dc:subject id="subject-2">SUBJECT2</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
