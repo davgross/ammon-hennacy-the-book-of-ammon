@@ -44,7 +44,7 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
                 <p>Ammon Hennacy (1893–1970) describes his upbringing, his anti-conscription activism during World War I and his resulting prison term, his adoption of Christian anarchism, the theory and practice of the “one-man revolution,” and his work with the Catholic Worker movement.</p>
-                <p>Along the way he also discusses his conversion to and later disillusionment with the Catholic church, his visits to several utopian and religious intentional communities, his impressions of the Mormon church, and his experiences running the Joe Hill House of Hospitality in Salt Lake City, Nevada.</p>
+                <p>Along the way he also discusses his conversion to and later disillusionment with the Catholic church, his visits to several utopian and religious intentional communities, the struggles of the Hopi, his impressions of the Mormon church, and his experiences running the Joe Hill House of Hospitality in Salt Lake City, Nevada.</p>
                 <p>He spends much time describing and explaining his practice of refusing to pay taxes that go to support violent government activities. He also shares his impressions of many of the activists of the anti-war, pacifist, and left-wing movements of his time.</p>
                 ]]>
 		</meta>
@@ -60,7 +60,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="introducer">Dorothy Day</dc:contributor>
 		<meta property="file-as" refines="#introducer">Day, Dorothy</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#introducer">https://en.wikipedia.org/wiki/Dorothy_Day<</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#introducer">https://en.wikipedia.org/wiki/Dorothy_Day</meta>
 		<meta property="se:url.authority.nacoaf" refines="#introducer">http://id.loc.gov/authorities/names/n50035121</meta>
 		<meta property="display-seq" refines="#introducer">1</meta>
 		<meta property="role" refines="#introducer" scheme="marc:relators">aui</meta>
