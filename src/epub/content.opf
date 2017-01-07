@@ -123,12 +123,12 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="editors.xhtml"/>
-		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
 		<itemref idref="foreword.xhtml"/>
 		<itemref idref="finalword.xhtml"/>
 		<itemref idref="epigraph.xhtml"/>
 		<itemref idref="preface.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="chapter-3.xhtml"/>
